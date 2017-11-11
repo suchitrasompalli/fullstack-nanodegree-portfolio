@@ -1,0 +1,58 @@
+body {
+   
+   font-family: 'Lato', sans-serif;
+   color: #2d3c49;
+   font-weight: bold;
+}
+
+.text-muted {
+    color: #7d97ad;
+    padding-top: .5em;
+    padding-bottom: 0.2em;
+}
+
+.text-thin {
+    font-weight: 300;
+}
+.text-thick {
+    font-weight: 600;
+}
+
+.title-super {
+    font-size: 3em;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+hr {
+    border: none;
+    height: 0.2em;
+    background-color: #7d97ad;
+}
+
+.modalLabel {
+    color: green;
+    font-weight: 600;
+}
+
+.green {
+    color: green;
+}
+
+.footer {  
+    height: 60px;
+}
+
+.description {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #e5e5e5;
+}
+
+@media screen and (max-width: 480px) {
+    .title-super {
+        font-size: 2em;
+    }    
+}
