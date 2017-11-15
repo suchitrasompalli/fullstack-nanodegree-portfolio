@@ -1,6 +1,5 @@
 body {
-   
-   font-family: 'Lato', sans-serif;
+   font-family: "Lato", sans-serif;
    color: #2d3c49;
    font-weight: bold;
 }
@@ -14,6 +13,7 @@ body {
 .text-thin {
     font-weight: 300;
 }
+
 .text-thick {
     font-weight: 600;
 }
@@ -55,4 +55,8 @@ hr {
     .title-super {
         font-size: 2em;
     }    
+}
+
+.hr-rule {
+    border-bottom: 0.2em solid #7d97ad;
 }
