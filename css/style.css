@@ -8,6 +8,10 @@ body {
   background-color: white;
   width:75%;
 }
+.responsive {
+    width: 100%;
+    height: auto;
+}
 header {
   margin-top:-5px;
 }
