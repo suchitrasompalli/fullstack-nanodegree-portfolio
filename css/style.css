@@ -2,8 +2,15 @@ body {
    font-family: "Lato", sans-serif;
    color: #2d3c49;
    font-weight: bold;
+   background-color: gray;
 }
-
+.container {
+  background-color: white;
+  width:75%;
+}
+header {
+  margin-top:-5px;
+}
 .text-muted {
     color: #7d97ad;
     padding-top: .5em;
