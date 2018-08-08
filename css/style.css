@@ -9,7 +9,6 @@ body {
     padding-top: .5em;
     padding-bottom: 0.2em;
 }
-
 .text-thin {
     font-weight: 300;
 }
@@ -19,13 +18,15 @@ body {
 }
 
 .title-super {
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .title-logo {
     margin-top: 20px;
 }
-
+.hr-top {
+  margin-top: 0px;
+}
 hr {
     border: none;
     height: 0.2em;
@@ -41,7 +42,7 @@ hr {
     color: green;
 }
 
-.footer {  
+.footer {
     height: 60px;
 }
 
@@ -54,7 +55,7 @@ hr {
 @media screen and (max-width: 480px) {
     .title-super {
         font-size: 2em;
-    }    
+    }
 }
 
 .hr-rule {
